@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1cce49-ae7d-422d-ad82-36bddf6b2304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/gitBatch13/Class01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Class01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/HW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/class01/gitBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/gitBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

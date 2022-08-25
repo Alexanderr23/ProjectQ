@@ -1,0 +1,26 @@
+********Review***********
+1. what is git?
+it is a version control tool.
+2.What is a local repostiory?
+ a storage that is on our computer
+3. what is a remote repository?
+  github
+4. Architecture of git :
+3-stage architecture--->wokring directory ,staging area, repo
+working directory:
+gitporject1 -->pom, src, target, .idea
+5.where should u create your local git repository?
+ideally you should create you repo inside your working directory i.e in this case gitProject1
+Note:
+One repo for one single project
+No subRepos are advised
+----------------------------------Tracking your first project using git----------------------
+1.Decide the location where to create the repository and navigate my MR terminal to that particular directory
+2.intitalize an empty repository  git init---> to initalize an empty repository
+to delete a repo, simply delete the .git folder
+3.git status--> shows u untacked files in red color
+            --> shows u the tracked files ingreen color
+4.git add . --> moves all the files to the staging area ..
+5. git commit -m "commit message" --> sends all the files from the staging area to the local repo
+6. git status after the commit shows working tree clean  becuase  we have
+   all the threee stages i.e working directory , staging area and local repo synchronised
