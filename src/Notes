@@ -24,3 +24,10 @@ to delete a repo, simply delete the .git folder
 5. git commit -m "commit message" --> sends all the files from the staging area to the local repo
 6. git status after the commit shows working tree clean  becuase  we have
    all the threee stages i.e working directory , staging area and local repo synchronised
+
+
+
+--- Some Advance git commands ---
+1) To view the files in your staging area:      git ls-files
+2) To remove any file from the staging area:    git rm --cached filename
+3) To restore files from staging area to
