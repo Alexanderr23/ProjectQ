@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d1cce49-ae7d-422d-ad82-36bddf6b2304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/gitBatch13/Class01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Array1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/HW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gitBatch13/Q9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/gitBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/gitBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="gitBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01.gitBasics" />
